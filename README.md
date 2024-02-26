@@ -1,1 +1,3 @@
-![Metrics](/github-metrics.svg)
+- Me porfesonal coder 
+- I Code (C#, PY, JS)
+- Linux User
