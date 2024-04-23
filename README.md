@@ -1,3 +1,3 @@
 - Me porfesonal coder 
-- I Code (C#, PY, JS)
+- I Code (C#, C++, JS)
 - Linux User
